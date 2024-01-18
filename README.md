@@ -6,4 +6,4 @@ As facial image manipulation techniques developed, deepfake detection attracted 
 ## Index Terms
 face forgery detection, deepfake manipulation, deepfake image detection, attention mechanism, multiple feature mining
 ## Model Frameworks
-![FramworkImage](/images/FramworkImage.drawio.png)
+![model](/images/FramworkImage.drawio.png)
